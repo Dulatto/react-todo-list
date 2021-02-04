@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "homepage": "https://github.com/Dulatto/react-todo-list",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
