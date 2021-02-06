@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=BenchNine:wght@700&display=swap');
+
 .todo-list .list-group-item{
     padding: .25rem .75rem;
+    font-family: 'BenchNine', sans-serif;
 }

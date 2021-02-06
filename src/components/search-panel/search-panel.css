@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=BenchNine:wght@700&display=swap');
+
 .search-input {
     width: auto;
     flex-grow: 1;
     margin-right: 3px;
+    font-family: 'BenchNine', sans-serif !important;
   }
+
