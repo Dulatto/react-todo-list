@@ -1,13 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BenchNine:wght@700&display=swap');
 .app-header {
     align-items: flex-end;
 }
   
 .app-header h1 {
     flex-grow: 1;
+    font-family:'Fredoka One', cursive;
 }
   
 .app-header h2 {
-    font-size: 1.2rem;
-    color: grey;
+    font-size: 1.5rem;
+    color: #dc3545;
+    font-family: 'BenchNine', sans-serif;
+
 }
   
